@@ -1,0 +1,8 @@
+98765432 ,hichem ,mejri ,Autres ,Homme ,4 ,7,7,2022 
+12345670 ,houssem ,balti ,Autres ,Femme ,5 ,2,3,2022 
+12345673 ,hichem ,mejri ,Tunis ,Femme ,6 ,4,5,2023 
+14359016 ,zed ,hech ,Tunis ,Homme ,1 ,1,1,2022 
+14359017 ,zed ,hech ,Tunis ,Homme ,1 ,1,1,2022 
+14785236 ,karouic ,iheb ,Tunis ,L|)ü ,1 ,1,1,2022 
+15975346 ,rayeene ,rro ,Autres ,Homme ,8 ,3,1,2022 
+12378965 ,az ,leo ,Tunis ,Femme ,4 ,1,1,2022 
